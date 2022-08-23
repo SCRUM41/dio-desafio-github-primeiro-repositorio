@@ -1,4 +1,6 @@
+
 Windows(derivado do shell)
+
 - cd 
 - dir (listar pastas)
  - mkdir (criar uma pasta)
@@ -8,7 +10,9 @@ Windows(derivado do shell)
  - workspace> echo hello>hello.txt
 - cls - limpar tela
 
+
 Unix(linux)(derivado do bash)
+
 - cd
 - ls
 - mkdir
