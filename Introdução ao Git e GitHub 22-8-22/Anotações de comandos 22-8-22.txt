@@ -53,5 +53,5 @@ O Git Bash é um terminal extendido para otimizar o uso do Git.
 git add. - adicionar nosso codigo para passar de vermelho para verde - no nosso pc
 git status - para verificar se esta tudo ok com nosso código
 git commit -m "Inclusão das anotações do curso de Git/GitHub" - para enviar para o gitHub
-
+git push origin main - estaremos enviando todos os gits localmente para a nuvem.
 
