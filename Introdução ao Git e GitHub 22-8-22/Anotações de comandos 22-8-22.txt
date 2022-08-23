@@ -49,3 +49,9 @@ REPOSITÓRIO COM O NOME DO CODE QUE VC ACABOU DE CLONAR DO GITHUB.
 LINK PARA DOWNLOAD DO GIT: https://git-scm.com/download/win
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+git add. - adicionar nosso codigo para passar de vermelho para verde - no nosso pc
+git status - para verificar se esta tudo ok com nosso código
+git commit -m "Inclusão das anotações do curso de Git/GitHub" - para enviar para o gitHub
+
+
