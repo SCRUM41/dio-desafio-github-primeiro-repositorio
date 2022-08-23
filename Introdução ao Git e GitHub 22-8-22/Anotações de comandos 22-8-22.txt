@@ -1,0 +1,51 @@
+Windows 
+- cd 
+- dir (listar pastas)
+ - mkdir (criar uma pasta)
+- del/rmdir
+- rmdir workspace/S/Q (para apagar a pasta e tudo dentro dela)
+- cd .. (retroceder ao repositório)
+ - workspace> echo hello>hello.txt
+- cls - limpar tela
+
+Unix(linux)
+- cd
+- ls
+- mkdir
+- rm-rf
+ctrl+l = clear
+
+
+tab (auto completar)
+ls -a(mostrar arquivos ocultos)
+para entrar no repositório - cd workspace/
+git init - para inicializar o git
+
+#ContratoDeCompromisso
+
+git init - para inicializar o git
+git add - para adicionar o git
+git commit - para enviar o git para o estado de stage
+
+> git add nomeArquivo
+>git commit -m"msg..."
+
+git config -- list - para saber qual é o meu name e email cadastrados no git
+q - para sair
+git config --global --unset user.email - para apagar ou alterar seu email
+git config --global --unset user.name - para apagar ou alterar o seu nome de usuário
+git config --global --user.email"jnunesbh26@gmail.com" - para cadastrar seu email
+git config --global --user.name "Nunes" - para cadastrar seu nome de Usuário
+git remote add origin https://github.com/ - para empurrar seu codigo para o gitHub, do seu pc para nuvem
+git remote -v
+git push origin master
+
+23/8/22 CRIANDO SEU 1º REPOSITÓRIO NO GITHUB PARA COMPARTILHAR SEU PROGRESSO - GIT E GITHUB: RELEMBRANDO ALGUMAS COISAS
+PODE CRIAR DIRETO NO SEU BROWSER NO GITHUB, E DEPOIS CLONAR PARA SEU PC, CAMINHO:
+CLICA NO NOME DO PROJETO, CLICA EM CODE, OPÇÃO HTTPS, COPIA A URL, ABRE O GIT BASH HERE NO PC E DIGITA ESTANDO 
+DENTRO DA PASTA EM QUE QUER SALVAR, GIT CLONE , BOTÃO DIRETO DO MOUSE, PASTE, E DA ENTER, ELE IRÁ CRIAR UMA PASTA NESTE
+REPOSITÓRIO COM O NOME DO CODE QUE VC ACABOU DE CLONAR DO GITHUB.
+
+LINK PARA DOWNLOAD DO GIT: https://git-scm.com/download/win
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
